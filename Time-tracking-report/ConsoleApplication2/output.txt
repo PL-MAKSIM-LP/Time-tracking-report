@@ -1,0 +1,4 @@
+name;email;date
+John Doe;john.doe@company.com;2021-10-19
+John Doe;john.doe@company.com;2021-10-20
+Jane Doe;jane.doe@company.com;2021-10-20
